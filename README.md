@@ -6,3 +6,6 @@ Our main goal was to prepare this game as our group project allowing us to pass 
 
 ### What is this game about?
 It's simple, board is a circle, every player moves using keyboard arrows and tries to throw other players out of bounds. The last one standing wins.
+
+### Example of some in-game rounds
+![alt text](https://github.com/kowalewskitomasz/Sumo_Game/blob/master/sumo1.gif "Gif showing how program works")
